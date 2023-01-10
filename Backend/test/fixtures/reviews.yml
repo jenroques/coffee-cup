@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  desc: MyString
+  score: 1
+  shop: one
+  user: one
+
+two:
+  title: MyString
+  desc: MyString
+  score: 1
+  shop: two
+  user: two
